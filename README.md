@@ -2,8 +2,6 @@
 <h3 align="center">Penultimate undergraduate from Calvin Institute of Technology</h3>
 <h4>I'm passionate in fullstack development and has experiences in implementing it in production environments.</h4>
 
-📫 How to reach me **cphangnesia@gmail.com**
-
 <h3>Contributions in current workplace:</h3>
 <a href="https://github.com/CPhangnesia"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
