@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calvin Phangnesia</h1>
-<h4 align="center">A penultimate undergraduate from Calvin Institute of Technology</h4>
+<h3 align="center">Penultimate undergraduate from Calvin Institute of Technology</h3>
 <h4>I'm passionate in fullstack development and has experiences in implementing it in professional environments.</h4>
 
 📫 How to reach me **cphangnesia@gmail.com**
