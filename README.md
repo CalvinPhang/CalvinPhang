@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Calvin Phangnesia</h1>
-<h3 align="center">A penultimate undergraduate from Calvin Institute of Technology</h3>
-<h3>I'm passionate in fullstack development</h3>
+<h4 align="center">A penultimate undergraduate from Calvin Institute of Technology</h4>
+<h4>I'm passionate in fullstack development and has experiences in implementing it in professional environments.</h4>
+
+<h4>Contributions in current workplace: <a href="https://github.com/CPhangnesia"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></h4>
 
 - 📫 How to reach me **cphangnesia@gmail.com**
 
