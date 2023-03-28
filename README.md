@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### This is my personal Github Projects
-##### Contributions in my previous work in companies: <a href="github.com/CPhangnesia">Work Github Account</a>
+##### Contributions in my previous work in companies: <a href="https://github.com/CPhangnesia">Work Github Account</a>
 <!--
 **CalvinPhang/CalvinPhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
